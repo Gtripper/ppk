@@ -1,0 +1,16 @@
+C:\Users\vtsvetkov\source\repos\ppk5_v2\WinFormForPPKParser\bin\Debug\WinFormForPPKParser.exe.config
+C:\Users\vtsvetkov\source\repos\ppk5_v2\WinFormForPPKParser\bin\Debug\WinFormForPPKParser.exe
+C:\Users\vtsvetkov\source\repos\ppk5_v2\WinFormForPPKParser\bin\Debug\WinFormForPPKParser.pdb
+C:\Users\vtsvetkov\source\repos\ppk5_v2\WinFormForPPKParser\bin\Debug\ppk5_v2.exe
+C:\Users\vtsvetkov\source\repos\ppk5_v2\WinFormForPPKParser\bin\Debug\WebDriver.dll
+C:\Users\vtsvetkov\source\repos\ppk5_v2\WinFormForPPKParser\bin\Debug\ppk5_v2.pdb
+C:\Users\vtsvetkov\source\repos\ppk5_v2\WinFormForPPKParser\bin\Debug\ppk5_v2.exe.config
+C:\Users\vtsvetkov\source\repos\ppk5_v2\WinFormForPPKParser\bin\Debug\WebDriver.xml
+C:\Users\vtsvetkov\source\repos\ppk5_v2\WinFormForPPKParser\obj\Debug\WinFormForPPKParser.csprojAssemblyReference.cache
+C:\Users\vtsvetkov\source\repos\ppk5_v2\WinFormForPPKParser\obj\Debug\WinFormForPPKParser.Form1.resources
+C:\Users\vtsvetkov\source\repos\ppk5_v2\WinFormForPPKParser\obj\Debug\WinFormForPPKParser.Properties.Resources.resources
+C:\Users\vtsvetkov\source\repos\ppk5_v2\WinFormForPPKParser\obj\Debug\WinFormForPPKParser.csproj.GenerateResource.cache
+C:\Users\vtsvetkov\source\repos\ppk5_v2\WinFormForPPKParser\obj\Debug\WinFormForPPKParser.csproj.CoreCompileInputs.cache
+C:\Users\vtsvetkov\source\repos\ppk5_v2\WinFormForPPKParser\obj\Debug\WinFormForPPKParser.csproj.CopyComplete
+C:\Users\vtsvetkov\source\repos\ppk5_v2\WinFormForPPKParser\obj\Debug\WinFormForPPKParser.exe
+C:\Users\vtsvetkov\source\repos\ppk5_v2\WinFormForPPKParser\obj\Debug\WinFormForPPKParser.pdb

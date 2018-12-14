@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\vtsvetkov\\source\\repos\\ppk5_v2\\WinFormForPPKParser\\WinFormForPPKParser.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ppk5_v2</name>
+    </assembly>
+    <members>
+        <member name="T:ppk5_v2.Elem">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:ppk5_v2.OKS">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:ppk5_v2.OKS.#ctor(System.String,System.String)">
+                        Этот конструктор принимает на вход спаршенную строку из росреестра и кадастровый номер.
+                        Вытаскивает необходимые значения регулярками и заполняет структуру.             
+        </member>
+    </members>
+</doc>

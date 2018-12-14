@@ -1,0 +1,16 @@
+c:\users\vtsvetkov\source\repos\ppk5_v2\ppk5_v2\bin\Debug\ppk5_v2.exe.config
+c:\users\vtsvetkov\source\repos\ppk5_v2\ppk5_v2\bin\Debug\ppk5_v2.exe
+c:\users\vtsvetkov\source\repos\ppk5_v2\ppk5_v2\bin\Debug\ppk5_v2.pdb
+c:\users\vtsvetkov\source\repos\ppk5_v2\ppk5_v2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\vtsvetkov\source\repos\ppk5_v2\ppk5_v2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\vtsvetkov\source\repos\ppk5_v2\ppk5_v2\bin\Debug\WebDriver.dll
+c:\users\vtsvetkov\source\repos\ppk5_v2\ppk5_v2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\vtsvetkov\source\repos\ppk5_v2\ppk5_v2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\vtsvetkov\source\repos\ppk5_v2\ppk5_v2\bin\Debug\WebDriver.xml
+c:\users\vtsvetkov\source\repos\ppk5_v2\ppk5_v2\obj\Debug\ppk5_v2.csprojAssemblyReference.cache
+c:\users\vtsvetkov\source\repos\ppk5_v2\ppk5_v2\obj\Debug\ppk5_v2.csproj.ResolveComReference.cache
+c:\users\vtsvetkov\source\repos\ppk5_v2\ppk5_v2\obj\Debug\ppk5_v2.csproj.CoreCompileInputs.cache
+c:\users\vtsvetkov\source\repos\ppk5_v2\ppk5_v2\obj\Debug\ppk5_v2.csproj.CopyComplete
+c:\users\vtsvetkov\source\repos\ppk5_v2\ppk5_v2\obj\Debug\ppk5_v2.exe
+c:\users\vtsvetkov\source\repos\ppk5_v2\ppk5_v2\obj\Debug\ppk5_v2.pdb
+C:\Users\vtsvetkov\source\repos\ppk5_v2\ppk5_v2\bin\Debug\SeleniumExtras.WaitHelpers.dll
